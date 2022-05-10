@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3704a04708c09042",
+        "id": "71ff8315c3d92ec7",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "CI CD/CI CD Kanban.md"
+            "file": "Testing/Testing Kanban.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI CD/CI CD Kanban.md",
+                "file": "Testing/Testing Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3704a04708c09042",
+  "active": "71ff8315c3d92ec7",
   "lastOpenFiles": [
-    "CI CD/CI CD Kanban.md",
-    "Books/Building Microservices/Building Microservices.md",
-    "Books/Art of Unit Testing/Art of Unit Testing.md",
-    "Books/Art of Unit Testing/AUT01 - The Basics of Unit Testing.md",
-    "Design Patterns/Design Patterns Kanban.md",
-    "Design Patterns/Factory Method.md",
+    "Testing/Testing Kanban.md",
+    "Articles/Untitled.md",
+    "Articles/The Way of Testivus.md",
+    "_Templates_/Article-Card-Template.md",
     "Learning Boards.md",
-    "Articles/Articles Kanban.md",
-    "Articles/When Does DRY Become ARID?.md",
-    "General/General Kanban.md"
+    "Getting Started.md",
+    "Agile/Agile Kanban.md",
+    "Algorithms/Algorithms Kanban.md",
+    "Architecture/Architecture Kanban.md",
+    "Articles/Articles Kanban.md"
   ]
 }

@@ -10,15 +10,15 @@ kanban-plugin: basic
 
 ## Journeyman
 
-- [ ] BOOK: [[Pragmatic Programmer]]
+- [ ] BOOK: <br>[[Pragmatic Programmer]]
 
 
 ## Apprentice
 
-- [ ] BOOK: [[Clean Code]]
-- [ ] BOOK: [[Conceptual Blockbusting]]
-- [ ] BOOK: [[Code Complete]]
-- [ ] BOOK: [[Build APIs You Won't Hate]]
+- [ ] BOOK: <br>[[Clean Code]]
+- [ ] BOOK: <br>[[Conceptual Blockbusting]]
+- [ ] BOOK: <br>[[Code Complete]]
+- [ ] BOOK: <br>[[Build APIs You Won't Hate]]
 
 
 ## Done

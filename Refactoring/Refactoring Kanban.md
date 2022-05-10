@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Master
 
-- [ ] BOOK: [[Working Effectively with Legacy Code]]
+- [ ] BOOK: <br>[[Working Effectively with Legacy Code]]
 
 
 ## Journeyman
 
-- [ ] BOOK: [[Refactoring]]
+- [ ] BOOK: <br>[[Refactoring]]
 
 
 ## Apprentice

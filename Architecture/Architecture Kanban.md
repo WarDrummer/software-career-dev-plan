@@ -10,12 +10,12 @@ kanban-plugin: basic
 
 ## Journeyman
 
-- [ ] BOOK: [[Building Microservices]]
+- [ ] BOOK: <br>[[Building Microservices]]
 
 
 ## Apprentice
 
-- [ ] BOOK: [[Clean Architecture]]
+- [ ] BOOK: <br>[[Clean Architecture]]
 
 
 ## Done

@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Master
 
-- [ ] BOOK: [[Design Patterns]]
+- [ ] BOOK: <br>[[Design Patterns]]
 
 
 ## Journeyman

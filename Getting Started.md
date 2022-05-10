@@ -5,7 +5,7 @@ The purpose of this Obsidan Vault is to provide guidance on how to advance one's
 
 This vault is not intended to be exhaustive and is intended to be expanded and contracted based on an individual's interests and career goals.
 
-Rather than give someone a vault that has all of the notes and research completed, 
+Rather than give someone a vault that has all of the notes and research completed, the exercise of building the vault delivers the most value.
 
 ## Table of Contents
 - **Setup**
