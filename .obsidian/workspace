@@ -7,10 +7,8 @@
         "id": "71ff8315c3d92ec7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Testing/Testing Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Testing Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +95,8 @@
   },
   "active": "71ff8315c3d92ec7",
   "lastOpenFiles": [
-    "Testing/Testing Kanban.md",
     "Articles/Untitled.md",
+    "Testing/Testing Kanban.md",
     "Articles/The Way of Testivus.md",
     "_Templates_/Article-Card-Template.md",
     "Learning Boards.md",
