@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "adb5dd6d0d6b0aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3704a04708c09042",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "CI CD/CI CD Kanban.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b039db407f3a6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a290d0fecbe1121f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a210106427d5a87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22a5753eec6dc366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55c2e39cf78c7c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "54fc6628992f25f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f10936a7c316aee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CI CD/CI CD Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b28b25fd072c02ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3704a04708c09042",
+  "lastOpenFiles": [
+    "CI CD/CI CD Kanban.md",
+    "Books/Building Microservices/Building Microservices.md",
+    "Books/Art of Unit Testing/Art of Unit Testing.md",
+    "Books/Art of Unit Testing/AUT01 - The Basics of Unit Testing.md",
+    "Design Patterns/Design Patterns Kanban.md",
+    "Design Patterns/Factory Method.md",
+    "Learning Boards.md",
+    "Articles/Articles Kanban.md",
+    "Articles/When Does DRY Become ARID?.md",
+    "General/General Kanban.md"
+  ]
+}
