@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "General/General Kanban.md"
+            "file": "Algorithms/Algorithms Kanban.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/General Kanban.md",
+                "file": "Algorithms/Algorithms Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "5ee9abb6b35ff9f3",
   "lastOpenFiles": [
+    "Algorithms/Algorithms Kanban.md",
+    "Agile/Agile Kanban.md",
     "General/General Kanban.md",
     "Principles/Principles Kanban.md",
     "Design Patterns/Design Patterns Kanban.md",
@@ -105,8 +107,6 @@
     "Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "Getting Started.md",
     "Learning Boards.md",
-    "Career Plans/Software Engineer - Apprentice.md",
-    "Career Plans/Software Architect - Master.md",
-    "Career Plans/Software Architect - Journeyman.md"
+    "Career Plans/Software Engineer - Apprentice.md"
   ]
 }

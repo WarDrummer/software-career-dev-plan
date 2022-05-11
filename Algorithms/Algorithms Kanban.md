@@ -6,24 +6,24 @@ kanban-plugin: basic
 
 ## Master
 
-- [ ] [[A Star]]
-- [ ] [[Dijkstra's Algorithm]]
+- [ ] [[Searching Algorithms/A Star|A Star]]
+- [ ] [[Searching Algorithms/Dijkstra's Algorithm|Dijkstra's Algorithm]]
 
 
 ## Journeyman
 
-- [ ] [[Breadth-First Search]]
-- [ ] [[Depth-First Search]]
+- [ ] [[Searching Algorithms/Breadth-First Search|Breadth-First Search]]
+- [ ] [[Searching Algorithms/Depth-First Search|Depth-First Search]]
 - [ ] [[Big-O Notation]]
-- [ ] [[Bucket Sort]]
+- [ ] [[Sorting Algorithms/Bucket Sort|Bucket Sort]]
 
 
 ## Apprentice
 
-- [ ] [[Bubble Sort]]
-- [ ] [[Insertion Sort]]
-- [ ] [[Merge Sort]]
-- [ ] [[Quick Sort]]
+- [ ] [[Sorting Algorithms/Bubble Sort|Bubble Sort]]
+- [ ] [[Sorting Algorithms/Insertion Sort|Insertion Sort]]
+- [ ] [[Sorting Algorithms/Merge Sort|Merge Sort]]
+- [ ] [[Sorting Algorithms/Quick Sort|Quick Sort]]
 
 
 ## Done
