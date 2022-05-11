@@ -4,22 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "71ff8315c3d92ec7",
-        "type": "leaf",
-        "dimension": 32.618683001531394,
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "5ee9abb6b35ff9f3",
         "type": "leaf",
-        "dimension": 67.3813169984686,
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "General/General Kanban.md"
+            "file": "Learning Boards.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -77,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning Boards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71ff8315c3d92ec7",
+  "active": "5ee9abb6b35ff9f3",
   "lastOpenFiles": [
-    "General/Untitled.md",
-    "General/General Kanban.md",
-    "Design Patterns/Design Patterns Kanban.md",
-    "Data Structures/Data Structures Kanban.md",
-    "Design Patterns/Untitled.md",
-    "Testing/Testing Kanban.md",
-    "Testing/Untitled.md",
-    "_Templates_/Article-Card-Template.md",
-    "_Templates_/Book-Card-Template.md",
-    "_Templates_/Book-Template.md"
+    "Learning Boards.md",
+    "Getting Started.md",
+    "Security/Security Kanban.md",
+    "Getting Started/Skills and Proficiency Matrix.md",
+    "_Templates_/Skills-Proficiency-Matrix-Template.md",
+    "_Templates_/Go-Snippet-Template.md",
+    "Getting Started/Matrices for Roles.md",
+    "Getting Started/Book Notes.md",
+    "Getting Started/Default Location for New Notes.md",
+    "Getting Started/One Source of Truth.md"
   ]
 }

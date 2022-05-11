@@ -21,6 +21,9 @@ Rather than give someone a vault that has all of the notes and research complete
 	- [[Mind Mapping with Local Graph]]
 		- [[Mind Mapping with Local Graph#Creating a New Mind Map|Creating a New Mind Map]]
 	- [[Book Notes]]
-
+- Career Planning
+	- [[Skills and Proficiency Matrix]]
+	- [[Matrices for Roles]]
+	- 
 
 
