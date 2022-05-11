@@ -4,5 +4,3 @@ ARTICLE:
 
 [Link to article](LINK_HERE)
 ```
-
-Remove coding block when done and cut-and-paste onto card

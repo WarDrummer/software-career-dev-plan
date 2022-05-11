@@ -95,15 +95,15 @@
   },
   "active": "71ff8315c3d92ec7",
   "lastOpenFiles": [
-    "Articles/Untitled.md",
+    "Testing/Untitled.md",
     "Testing/Testing Kanban.md",
-    "Articles/The Way of Testivus.md",
     "_Templates_/Article-Card-Template.md",
-    "Learning Boards.md",
-    "Getting Started.md",
-    "Agile/Agile Kanban.md",
-    "Algorithms/Algorithms Kanban.md",
-    "Architecture/Architecture Kanban.md",
-    "Articles/Articles Kanban.md"
+    "_Templates_/Book-Card-Template.md",
+    "_Templates_/Book-Template.md",
+    "Books/Test-Driven Development By Example/Test-Driven Development By Example.md",
+    "Articles/Articles Kanban.md",
+    "Articles/Untitled.md",
+    "Articles/The Way of Testivus.md",
+    "Learning Boards.md"
   ]
 }
