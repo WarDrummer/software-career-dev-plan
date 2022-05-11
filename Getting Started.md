@@ -24,6 +24,8 @@ Rather than give someone a vault that has all of the notes and research complete
 - Career Planning
 	- [[Skills and Proficiency Matrix]]
 	- [[Matrices for Roles]]
-	- 
+	- [[Career Plans]]
+
+
 
 

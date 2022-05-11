@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Career Plans/Software Engineer - Apprentice.md",
+            "file": "Getting Started.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Plans/Software Engineer - Apprentice.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "5ee9abb6b35ff9f3",
   "lastOpenFiles": [
+    "Getting Started.md",
+    "Learning Boards.md",
     "Career Plans/Software Engineer - Apprentice.md",
     "Career Plans/Software Architect - Master.md",
     "Career Plans/Software Architect - Journeyman.md",
@@ -107,8 +109,6 @@
     "Career Plans/DevOps Engineer - Apprentice.md",
     "Career Plans/DevOps Engineer - Journeyman.md",
     "Career Plans/DevOps Engineer - Master.md",
-    "General/General Kanban.md",
-    "Agile/Agile Kanban.md",
-    "Career Plans/Software Engineer - Master.md"
+    "General/General Kanban.md"
   ]
 }
