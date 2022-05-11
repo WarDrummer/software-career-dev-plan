@@ -7,11 +7,9 @@
         "id": "5ee9abb6b35ff9f3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Getting Started.md",
-            "mode": "source",
-            "source": false
+            "file": "Design Patterns/Design Patterns Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started.md",
+                "file": "Design Patterns/Design Patterns Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +98,15 @@
   },
   "active": "5ee9abb6b35ff9f3",
   "lastOpenFiles": [
+    "Design Patterns/Design Patterns Kanban.md",
+    "Design Patterns Kanban/Builder.md",
+    "Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "Getting Started.md",
     "Learning Boards.md",
     "Career Plans/Software Engineer - Apprentice.md",
     "Career Plans/Software Architect - Master.md",
     "Career Plans/Software Architect - Journeyman.md",
     "Career Plans/Software Architect - Apprentice.md",
-    "Career Plans/DevOps Engineer - Apprentice.md",
-    "Career Plans/DevOps Engineer - Journeyman.md",
-    "Career Plans/DevOps Engineer - Master.md",
-    "General/General Kanban.md"
+    "Career Plans/DevOps Engineer - Apprentice.md"
   ]
 }

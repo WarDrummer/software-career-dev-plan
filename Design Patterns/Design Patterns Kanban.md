@@ -11,24 +11,24 @@ kanban-plugin: basic
 
 ## Journeyman
 
-- [ ] [[Behavioral Design Patterns]]
-- [ ] [[Creational Design Patterns]]
-- [ ] [[Structural Design Patterns]]
-- [ ] [[Template Method]]
-- [ ] [[Command]]
-- [ ] [[Strategy]]
-- [ ] [[Composite]]
+- [ ] [[Behavioral Design Patterns/Template Method|Template Method]]
+- [ ] [[Behavioral Design Patterns/Command|Command]]
+- [ ] [[Behavioral Design Patterns/Strategy|Strategy]]
+- [ ] [[Structural Design Patterns/Composite|Composite]]
 
 
 ## Apprentice
 
-- [ ] [[Builder]]
-- [ ] [[Factory Method]]
-- [ ] [[Abstract Factory]]
-- [ ] [[Fluent Interface]]
-- [ ] [[Singleton]]
-- [ ] [[Monostate]]
-- [ ] [[Null Object]]
+- [ ] [[Behavioral Patterns/Behavioral Design Patterns|Behavioral Design Patterns]]
+- [ ] [[Creational Design Patterns/Creational Design Patterns|Creational Design Patterns]]
+- [ ] [[Structural Design Patterns/Structural Design Patterns|Structural Design Patterns]]
+- [ ] [[Design Patterns/Builder|Builder]]
+- [ ] [[Creational Design Patterns/Factory Method|Factory Method]]
+- [ ] [[Creational Design Patterns/Abstract Factory|Abstract Factory]]
+- [ ] [[Structural Design Patterns/Fluent Interface|Fluent Interface]]
+- [ ] [[Creational Design Patterns/Singleton|Singleton]]
+- [ ] [[Creational Design Patterns/Monostate|Monostate]]
+- [ ] [[Behavioral Design Patterns/Null Object|Null Object]]
 
 
 ## Done
