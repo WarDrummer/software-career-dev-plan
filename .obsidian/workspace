@@ -6,9 +6,21 @@
       {
         "id": "71ff8315c3d92ec7",
         "type": "leaf",
+        "dimension": 32.618683001531394,
         "state": {
           "type": "empty",
           "state": {}
+        }
+      },
+      {
+        "id": "5ee9abb6b35ff9f3",
+        "type": "leaf",
+        "dimension": 67.3813169984686,
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "General/General Kanban.md"
+          }
         }
       }
     ],
@@ -95,15 +107,15 @@
   },
   "active": "71ff8315c3d92ec7",
   "lastOpenFiles": [
-    "Testing/Untitled.md",
+    "General/Untitled.md",
+    "General/General Kanban.md",
+    "Design Patterns/Design Patterns Kanban.md",
+    "Data Structures/Data Structures Kanban.md",
+    "Design Patterns/Untitled.md",
     "Testing/Testing Kanban.md",
+    "Testing/Untitled.md",
     "_Templates_/Article-Card-Template.md",
     "_Templates_/Book-Card-Template.md",
-    "_Templates_/Book-Template.md",
-    "Books/Test-Driven Development By Example/Test-Driven Development By Example.md",
-    "Articles/Articles Kanban.md",
-    "Articles/Untitled.md",
-    "Articles/The Way of Testivus.md",
-    "Learning Boards.md"
+    "_Templates_/Book-Template.md"
   ]
 }

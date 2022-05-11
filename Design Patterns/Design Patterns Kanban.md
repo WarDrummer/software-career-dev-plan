@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Master
 
-- [ ] BOOK: <br>[[Design Patterns]]
+- [ ] BOOK:<br>[[Books/Design Patterns/Design Patterns|Design Patterns]]<br><br>[Link to book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 
 ## Journeyman
