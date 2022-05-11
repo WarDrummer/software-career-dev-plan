@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## Master
 
 - [ ] [[Fluent Builder Pattern for Mocks]]
-- [ ] [[Automock - DI for Tests]]
 
 
 ## Journeyman
 
+- [ ] [[Automock - DI for Tests]]
 - [ ] [[Unit Testing - Setup Teardown Anti-Pattern]]
 - [ ] [[Types of Fakes - Stubs, Mocks]]
 - [ ] [[Mocking Libraries]]

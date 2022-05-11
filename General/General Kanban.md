@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Master
 
+- [ ] ARTICLE: <br>[[Articles/Back to Basics - Joel on Software|Back to Basics - Joel on Software]]<br><br>[Link to article](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 
 
 ## Journeyman
@@ -20,6 +21,7 @@ kanban-plugin: basic
 - [ ] BOOK:<br>[[Books/Code Complete/Code Complete|Code Complete]]<br><br>[Link to book](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 - [ ] BOOK: <br>[[Build APIs You Won't Hate]]
 - [ ] BOOK:<br>[[Books/Build APIs You Won't Hate/Build APIs You Won't Hate|Build APIs You Won't Hate]]<br><br>[Link to book](https://www.amazon.com/Build-APIs-You-Wont-Hate/dp/0692232699/)
+- [ ] ARTICLE:<br>[[Articles/When Does DRY Become ARID|When Does DRY Become ARID?]]<br><br>[Link to article](https://jeremybytes.blogspot.com/2015/08/when-does-dry-become-arid.html)
 
 
 ## Done

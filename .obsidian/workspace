@@ -102,13 +102,13 @@
   "lastOpenFiles": [
     "Learning Boards.md",
     "Getting Started.md",
-    "Security/Security Kanban.md",
+    "Testing/Testing Kanban.md",
     "Getting Started/Skills and Proficiency Matrix.md",
-    "_Templates_/Skills-Proficiency-Matrix-Template.md",
-    "_Templates_/Go-Snippet-Template.md",
+    "Getting Started/Plugins.md",
+    "Getting Started/One Source of Truth.md",
+    "Getting Started/Mind Mapping with Local Graph.md",
     "Getting Started/Matrices for Roles.md",
-    "Getting Started/Book Notes.md",
     "Getting Started/Default Location for New Notes.md",
-    "Getting Started/One Source of Truth.md"
+    "Getting Started/Book Notes.md"
   ]
 }
