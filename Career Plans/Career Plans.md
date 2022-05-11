@@ -12,6 +12,6 @@
 
 ## DevOps Career Plans
 [[DevOps Engineer - Apprentice]]
-[[DevOps Engineer  - Journeyman]]
-[[DevOps Engineer  - Master]]
+[[DevOps Engineer - Journeyman]]
+[[DevOps Engineer - Master]]
 

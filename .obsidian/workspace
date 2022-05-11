@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Career Plans/Software Engineer - Master.md",
+            "file": "Career Plans/Software Engineer - Apprentice.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Plans/Software Engineer - Master.md",
+                "file": "Career Plans/Software Engineer - Apprentice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "5ee9abb6b35ff9f3",
   "lastOpenFiles": [
-    "Career Plans/Software Engineer - Master.md",
-    "Career Plans/Software Engineer - Journeyman.md",
     "Career Plans/Software Engineer - Apprentice.md",
     "Career Plans/Software Architect - Master.md",
     "Career Plans/Software Architect - Journeyman.md",
     "Career Plans/Software Architect - Apprentice.md",
     "Career Plans/DevOps Engineer - Apprentice.md",
-    "Career Plans/DevOps Engineer  - Master.md",
-    "Career Plans/DevOps Engineer  - Journeyman.md",
-    "_Templates_/Career-Plan-Template.md"
+    "Career Plans/DevOps Engineer - Journeyman.md",
+    "Career Plans/DevOps Engineer - Master.md",
+    "General/General Kanban.md",
+    "Agile/Agile Kanban.md",
+    "Career Plans/Software Engineer - Master.md"
   ]
 }

@@ -1,4 +1,4 @@
-# DevOps Engineer  - Journeyman
+# DevOps Engineer - Master
 #career-plan
 
 | Skill Area      | Apprentice | Journeyman | Master |
