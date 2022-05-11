@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning Boards.md",
+            "file": "Career Plans/Software Engineer - Master.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Boards.md",
+                "file": "Career Plans/Software Engineer - Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "5ee9abb6b35ff9f3",
   "lastOpenFiles": [
-    "Learning Boards.md",
-    "Getting Started.md",
-    "Testing/Testing Kanban.md",
-    "Getting Started/Skills and Proficiency Matrix.md",
-    "Getting Started/Plugins.md",
-    "Getting Started/One Source of Truth.md",
-    "Getting Started/Mind Mapping with Local Graph.md",
-    "Getting Started/Matrices for Roles.md",
-    "Getting Started/Default Location for New Notes.md",
-    "Getting Started/Book Notes.md"
+    "Career Plans/Software Engineer - Master.md",
+    "Career Plans/Software Engineer - Journeyman.md",
+    "Career Plans/Software Engineer - Apprentice.md",
+    "Career Plans/Software Architect - Master.md",
+    "Career Plans/Software Architect - Journeyman.md",
+    "Career Plans/Software Architect - Apprentice.md",
+    "Career Plans/DevOps Engineer - Apprentice.md",
+    "Career Plans/DevOps Engineer  - Master.md",
+    "Career Plans/DevOps Engineer  - Journeyman.md",
+    "_Templates_/Career-Plan-Template.md"
   ]
 }
