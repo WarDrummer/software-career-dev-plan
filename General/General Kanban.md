@@ -19,9 +19,7 @@ kanban-plugin: basic
 - [ ] BOOK:<br>[[Books/Clean Code/Clean Code|Clean Code]]<br><br>[Link to book](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [ ] BOOK:<br>[[Books/Conceptual Blockbusting/Conceptual Blockbusting|Conceptual Blockbusting]]<br><br>[Link to book](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/1541674049/)
 - [ ] BOOK:<br>[[Books/Code Complete/Code Complete|Code Complete]]<br><br>[Link to book](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
-- [ ] BOOK: <br>[[Build APIs You Won't Hate]]
 - [ ] BOOK:<br>[[Books/Build APIs You Won't Hate/Build APIs You Won't Hate|Build APIs You Won't Hate]]<br><br>[Link to book](https://www.amazon.com/Build-APIs-You-Wont-Hate/dp/0692232699/)
-- [ ] ARTICLE:<br>[[Articles/When Does DRY Become ARID|When Does DRY Become ARID?]]<br><br>[Link to article](https://jeremybytes.blogspot.com/2015/08/when-does-dry-become-arid.html)
 
 
 ## Done

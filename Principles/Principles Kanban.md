@@ -19,6 +19,8 @@ kanban-plugin: basic
 - [ ] [[Law of Demeter]]
 - [ ] [[SOLID - Liskov Substitution Principle]]
 - [ ] [[SOLID - Dependency Inversion Principle]]
+- [ ] [[Conway's Law]]
+- [ ] [[Occam's Razor]]
 
 
 ## Apprentice
@@ -29,8 +31,7 @@ kanban-plugin: basic
 - [ ] [[SOLID - Open-Closed Principle]]
 - [ ] [[SOLID - Interface Segregation Principle]]
 - [ ] [[Command-Query Separation]]
-- [ ] [[Conway's Law]]
-- [ ] [[Occam's Razor]]
+- [ ] ARTICLE:<br>[[Articles/When Does DRY Become ARID|When Does DRY Become ARID?]]<br><br>[Link to article](https://jeremybytes.blogspot.com/2015/08/when-does-dry-become-arid.html)
 
 
 ## Done
