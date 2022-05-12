@@ -15,13 +15,13 @@ Rather than give someone a vault that has all of the notes and research complete
 	- **Settings**
 		- [[Default Location for New Notes]]
 		- Templates
-		- Hotkeys
+		- [[Hotkeys]]
 - **Building Your Knowledge Base**
 	- [[One Source of Truth]]
 	- [[Mind Mapping with Local Graph]]
 		- [[Mind Mapping with Local Graph#Creating a New Mind Map|Creating a New Mind Map]]
 	- [[Book Notes]]
-- Career Planning
+- **Career Planning**
 	- [[Skills and Proficiency Matrix]]
 	- [[Matrices for Roles]]
 	- [[Career Plans]]
