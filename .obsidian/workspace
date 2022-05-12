@@ -7,11 +7,9 @@
         "id": "b86044481bf73bbe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Getting Started.md",
-            "mode": "source",
-            "source": false
+            "file": "CI CD/CI CD Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started.md",
+                "file": "CI CD/CI CD Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +98,8 @@
   },
   "active": "b86044481bf73bbe",
   "lastOpenFiles": [
+    "CI CD/CI CD Kanban.md",
+    "Data Structures/Data Structures Kanban.md",
     "Getting Started.md",
     "Getting Started/Settings/Plugins.md",
     "Getting Started/Note Types/Exercise Notes.md",
@@ -107,8 +107,6 @@
     "Getting Started/Note Types/Book Notes.md",
     "Learning Boards.md",
     "Getting Started/Skills and Proficiency Matrix.md",
-    "Getting Started/One Source of Truth.md",
-    "Getting Started/Note Types/Topic Notes.md",
-    "Principles/Principles Kanban.md"
+    "Getting Started/One Source of Truth.md"
   ]
 }
