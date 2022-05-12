@@ -1,5 +1,9 @@
 # Learning Boards
 
+Below is a collection of kanban board with suggested topics, books, articles, and exercises. See [[Kanban Card Types]] for more details.
+
+## Kanban Boards
+
 [[Agile Kanban]]
 
 [[Algorithms Kanban]]

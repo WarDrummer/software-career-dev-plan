@@ -29,6 +29,9 @@ kanban-plugin: basic
 - [ ] [[Creational Design Patterns/Singleton|Singleton]]
 - [ ] [[Creational Design Patterns/Monostate|Monostate]]
 - [ ] [[Behavioral Design Patterns/Null Object|Null Object]]
+- [ ] ARTICLE:<br>[[Articles/The Monostate Pattern|The Monostate Pattern]]<br><br>[Link to article](https://www.simplethread.com/the-monostate-pattern/)
+- [ ] ARTICLE:<br>[[Articles/Fluent Interface|Fluent Interface]]<br><br>[Link to article](https://martinfowler.com/bliki/FluentInterface.html)
+- [ ] ARTICLE:<br>[[Articles/Builder Design Pattern|Builder Design Pattern]]<br><br>[Link to article](https://www.geeksforgeeks.org/builder-design-pattern/)
 
 
 ## Done

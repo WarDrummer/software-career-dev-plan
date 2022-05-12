@@ -1,0 +1,6 @@
+```
+EXERCISE:
+[[EXERCISE_NAME/EXERCISE_NAME|EXERCISE_NAME]]
+
+[Link to exercise](LINK_HERE)
+```

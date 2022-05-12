@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee9abb6b35ff9f3",
+        "id": "b86044481bf73bbe",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Algorithms/Algorithms Kanban.md"
+            "file": "Getting Started.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Algorithms Kanban.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ee9abb6b35ff9f3",
+  "active": "b86044481bf73bbe",
   "lastOpenFiles": [
-    "Algorithms/Algorithms Kanban.md",
-    "Agile/Agile Kanban.md",
-    "General/General Kanban.md",
-    "Principles/Principles Kanban.md",
-    "Design Patterns/Design Patterns Kanban.md",
-    "Design Patterns Kanban/Builder.md",
-    "Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
     "Getting Started.md",
-    "Learning Boards.md",
-    "Career Plans/Software Engineer - Apprentice.md"
+    "Getting Started/Kanban Card Types/Kanban Card Types.md",
+    "Getting Started/Kanban Card Types/Topic Kanban Card.md",
+    "_Templates_/Topic-Card-Template.md",
+    "_Templates_/Article-Card-Template.md",
+    "Getting Started/Kanban Card Types/Article Kanban Card.md",
+    "Getting Started/Kanban Card Types/Exercise Kanban Card.md",
+    "Getting Started/Kanban Card Types/Book Kanban Card.md",
+    "_Templates_/Exercise-Card-Template.md",
+    "_Templates_/Book-Card-Template.md"
   ]
 }

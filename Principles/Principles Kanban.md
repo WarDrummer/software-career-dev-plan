@@ -21,6 +21,9 @@ kanban-plugin: basic
 - [ ] [[SOLID - Dependency Inversion Principle]]
 - [ ] [[Conway's Law]]
 - [ ] [[Occam's Razor]]
+- [ ] [[Temporal Coupling]]
+- [ ] [[Atomic Design]]
+- [ ] [[Code Stratification]]
 
 
 ## Apprentice
@@ -32,6 +35,9 @@ kanban-plugin: basic
 - [ ] [[SOLID - Interface Segregation Principle]]
 - [ ] [[Command-Query Separation]]
 - [ ] ARTICLE:<br>[[Articles/When Does DRY Become ARID|When Does DRY Become ARID?]]<br><br>[Link to article](https://jeremybytes.blogspot.com/2015/08/when-does-dry-become-arid.html)
+- [ ] ARTICLE:<br>[[Articles/YAGNI|YAGNI]]<br><br>[Link to article](https://martinfowler.com/bliki/Yagni.html)
+- [ ] ARTICLE:<br>[[Articles/Your Constructors are Completely Irrational|Your Constructors are Completely Irrational]]<br><br>[Link to article](https://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational)
+- [ ] ARTICLE:<br>[[Articles/Beware the Bloated Constructor|Beware the Bloated Constructor]]<br><br>[Link to article](https://daedtech.com/beware-the-bloated-constructor/)
 
 
 ## Done

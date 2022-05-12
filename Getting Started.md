@@ -25,7 +25,7 @@ Rather than give someone a vault that has all of the notes and research complete
 	- [[Skills and Proficiency Matrix]]
 	- [[Matrices for Roles]]
 	- [[Career Plans]]
-
-
+- [[Learning Boards]]
+	- [[Kanban Card Types]]
 
 

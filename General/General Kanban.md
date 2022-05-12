@@ -20,6 +20,8 @@ kanban-plugin: basic
 - [ ] BOOK:<br>[[Books/Conceptual Blockbusting/Conceptual Blockbusting|Conceptual Blockbusting]]<br><br>[Link to book](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/1541674049/)
 - [ ] BOOK:<br>[[Books/Code Complete/Code Complete|Code Complete]]<br><br>[Link to book](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
 - [ ] BOOK:<br>[[Books/Build APIs You Won't Hate/Build APIs You Won't Hate|Build APIs You Won't Hate]]<br><br>[Link to book](https://www.amazon.com/Build-APIs-You-Wont-Hate/dp/0692232699/)
+- [ ] BOOK:<br>[[Books/Code - The Hidden Language of Computer Hardware and Software/Code - The Hidden Language of Computer Hardware and Software|Code - The Hidden Language of Computer Hardware and Software]]<br><br>[Link to book](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [ ] BOOK:<br>[[Books/Clean Coder/Clean Coder|Clean Coder]]<br><br>[Link to book](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 
 ## Done
