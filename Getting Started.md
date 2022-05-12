@@ -14,7 +14,7 @@ Rather than give someone a vault that has all of the notes and research complete
 		- [[Plugins#Community Plugins|Community Plugins]]
 	- **Settings**
 		- [[Default Location for New Notes]]
-		- Templates
+		- [[Templates]]
 		- [[Hotkeys]]
 - **Building Your Knowledge Base**
 	- [[One Source of Truth]]
