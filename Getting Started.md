@@ -9,7 +9,7 @@ Rather than give someone a vault that has all of the notes and research complete
 
 ## Table of Contents
 - **Setup**
-	- [[Plugins|Plugins]]
+	- **Plugins**
 		- [[Plugins#Core Plugins|Core Plugins]]
 		- [[Plugins#Community Plugins|Community Plugins]]
 	- **Settings**
