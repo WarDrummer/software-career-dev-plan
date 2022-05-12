@@ -4,12 +4,12 @@
 | Skill Area      | Apprentice | Journeyman | Master |
 | --------------- | ---------- | ---------- | ------ |
 | Algorithms      |            |            |        |
-| Architecture    |            |            |        |
-| CI / CD         |            |            |        |
-| Data Structures |            |            |        |
-| Design Patterns |            |            |        |
-| Principles      |            |            |        |
-| Refactoring     |            |            |        |
-| Security        |            |            |        |
+| Architecture    | X          |            |        |
+| CI / CD         | X          |            |        |
+| Data Structures | X          |            |        |
+| Design Patterns | X          |            |        |
+| Principles      | X          |            |        |
+| Refactoring     | X          |            |        |
+| Security        | X          |            |        |
 | Testing         |            |            |        |
 

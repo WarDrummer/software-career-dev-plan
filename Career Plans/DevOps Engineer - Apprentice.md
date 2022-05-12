@@ -5,11 +5,11 @@
 | --------------- | ---------- | ---------- | ------ |
 | Algorithms      |            |            |        |
 | Architecture    |            |            |        |
-| CI / CD         |            |            |        |
+| CI / CD         | X          |            |        |
 | Data Structures |            |            |        |
 | Design Patterns |            |            |        |
 | Principles      |            |            |        |
 | Refactoring     |            |            |        |
-| Security        |            |            |        |
+| Security        | X          |            |        |
 | Testing         |            |            |        |
 
