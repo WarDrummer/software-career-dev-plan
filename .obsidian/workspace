@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/Settings/Templates.md",
+            "file": "Getting Started/Note Types/Exercise Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Settings/Templates.md",
+                "file": "Getting Started/Note Types/Exercise Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "b86044481bf73bbe",
   "lastOpenFiles": [
-    "Getting Started/Settings/Templates.md",
-    "Getting Started/Settings/Plugins.md",
-    "Getting Started/Settings/Hotkeys.md",
+    "Getting Started/Note Types/Exercise Notes.md",
     "Getting Started.md",
-    "Getting Started/Settings/Default Location for New Notes.md",
-    "Getting Started/Kanban Card Types/Kanban Card Types.md",
-    "Getting Started/Kanban Card Types/Topic Kanban Card.md",
-    "_Templates_/Topic-Card-Template.md",
-    "_Templates_/Article-Card-Template.md",
-    "Getting Started/Kanban Card Types/Article Kanban Card.md"
+    "Getting Started/Note Types/Article Notes.md",
+    "Getting Started/Note Types/Book Notes.md",
+    "Learning Boards.md",
+    "Getting Started/Skills and Proficiency Matrix.md",
+    "Getting Started/One Source of Truth.md",
+    "Getting Started/Note Types/Topic Notes.md",
+    "Principles/Principles Kanban.md",
+    "Design Patterns/Design Patterns Kanban.md"
   ]
 }
