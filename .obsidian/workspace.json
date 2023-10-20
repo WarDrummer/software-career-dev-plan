@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8faed8ef8d6204d5",
+        "id": "64300385720ff790",
         "type": "tabs",
         "children": [
           {
-            "id": "b86044481bf73bbe",
+            "id": "b62de25704f3baeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Boards.md",
-                "mode": "source",
+                "file": "Getting Started.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Boards.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b86044481bf73bbe",
+  "active": "b62de25704f3baeb",
   "lastOpenFiles": [
+    "Design Patterns/Design Patterns Kanban.md",
+    "Design Patterns/Behavioral Design Patterns/Iterator.md",
+    "Design Patterns/Behavioral Design Patterns",
+    "Creational Design Patterns/Factory Method.md",
+    "Creational Design Patterns",
+    "Design Patterns/Behavioral Patterns/Behavioral Design Patterns.md",
+    "Design Patterns/Behavioral Patterns",
+    "Behavioral Patterns/Behavioral Design Patterns.md",
+    "Behavioral Patterns",
+    "Learning Boards.md",
     "Getting Started.md",
     "Testing/Testing Kanban.md",
     "Getting Started/Skills and Proficiency Matrix.md",
@@ -147,12 +157,6 @@
     "Getting Started/Kanban Card Types/Exercise Kanban Card.md",
     "Getting Started/Kanban Card Types/Book Kanban Card.md",
     "Getting Started/Kanban Card Types/Article Kanban Card.md",
-    "General/General Kanban.md",
-    "Design Patterns/Design Patterns Kanban.md",
-    "Data Structures/Data Structures Kanban.md",
-    "CI CD/CI CD Kanban.md",
-    "Career Plans/Software Engineer - Master.md",
-    "Career Plans/Software Engineer - Journeyman.md",
     "Books/Common-Sense Guide to Data Structures and Algorithms",
     "_Files_/Templates-Hotkey.png",
     "_Files_/LocalGraph-Example.png"

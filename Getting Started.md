@@ -1,3 +1,4 @@
+
 ## Purpose
 The purpose of this Obsidian Vault is to provide guidance on how to advance one's skills as a software development professional. 
 
