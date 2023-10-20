@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64300385720ff790",
+        "id": "ae96bfc48a5ffaf6",
         "type": "tabs",
         "children": [
           {
-            "id": "b62de25704f3baeb",
+            "id": "2e454135e2b34fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,8 +125,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b62de25704f3baeb",
+  "active": "2e454135e2b34fd9",
   "lastOpenFiles": [
+    "Refactoring/Refactoring Kanban.md",
+    "_Templates_/Article-Card-Template.md",
+    "Principles/Principles Kanban.md",
+    "Getting Started/Note Types/Article Notes.md",
+    "Articles",
+    "Getting Started.md",
+    "Getting Started/Settings/Plugins.md",
     "Practice/Practice Kanban.md",
     "Practice/Exercises/GildedRose Kata.md",
     "Practice/Exercises/Item.md",
@@ -150,12 +157,6 @@
     "Career Plans/Software Architect - Master.md",
     "Career Plans/Software Architect - Journeyman.md",
     "Career Plans/Software Architect - Apprentice.md",
-    "Career Plans/Software Engineer - Master.md",
-    "Career Plans/Software Engineer - Journeyman.md",
-    "Career Plans/Software Engineer - Apprentice.md",
-    "Getting Started/Skills and Proficiency Matrix.md",
-    "Getting Started/Kanban Card Types/Article Kanban Card.md",
-    "Getting Started.md",
     "Design Patterns/Behavioral Design Patterns",
     "Creational Design Patterns",
     "Design Patterns/Behavioral Patterns",

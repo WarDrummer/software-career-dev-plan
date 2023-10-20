@@ -16,6 +16,8 @@ kanban-plugin: basic
 
 ## Apprentice
 
+- [ ] ARTICLE:<br>[[Articles/Long Parameter List|Long Parameter List]]<br><br>[Link to article](https://refactoring.guru/smells/long-parameter-list)
+- [ ] ARTICLE:<br>[[Articles/Extract Method|Extract Method]]<br><br>[Link to article](https://refactoring.guru/extract-method)
 
 
 ## Done
