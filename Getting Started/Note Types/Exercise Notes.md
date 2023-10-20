@@ -1,4 +1,3 @@
-# Exercise Notes
 Exercise notes should include problems along with the concepts that are important to solving it.
 
 ## Overview

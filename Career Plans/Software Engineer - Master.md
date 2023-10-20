@@ -1,5 +1,3 @@
-# Software Engineer - Master
-#career-plan
 
 | Skill Area      | Apprentice | Journeyman | Master |
 | --------------- | ---------- | ---------- | ------ |

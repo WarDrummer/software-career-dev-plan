@@ -1,5 +1,3 @@
-# Clean Code
-
 ### Table of Contents
 
 [[CLNC01 - Clean Code]]

@@ -1,5 +1,3 @@
-# {{title}}
-
 
 ### Table of Contents
 

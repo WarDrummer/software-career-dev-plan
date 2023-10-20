@@ -1,4 +1,3 @@
-# Learning Boards
 
 Below is a collection of kanban board with suggested topics, books, articles, and exercises. See [[Kanban Card Types]] for more details.
 
@@ -21,8 +20,6 @@ Below is a collection of kanban board with suggested topics, books, articles, an
 [[Principles Kanban]]
 
 [[Refactoring Kanban]]
-
-[[Security Kanban]]
 
 [[Testing Kanban]]
 

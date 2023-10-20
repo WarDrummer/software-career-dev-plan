@@ -1,4 +1,3 @@
-# Topic Kanban Card
 
 Clicking the link creates a note somewhere in the current folder structure
 

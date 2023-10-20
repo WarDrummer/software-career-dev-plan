@@ -1,6 +1,3 @@
-# Building Microservices
-
-
 ### Table of Contents
 
 [[BMSN01 - Microservices]]

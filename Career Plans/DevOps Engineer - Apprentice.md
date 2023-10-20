@@ -1,5 +1,3 @@
-# DevOps Engineer - Apprentice
-#career-plan
 
 | Skill Area      | Apprentice | Journeyman | Master |
 | --------------- | ---------- | ---------- | ------ |

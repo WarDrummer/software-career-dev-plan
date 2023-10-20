@@ -1,7 +1,5 @@
-# Getting Started
-
 ## Purpose
-The purpose of this Obsidan Vault is to provide guidance on how to advance one's skills as a software development professional. 
+The purpose of this Obsidian Vault is to provide guidance on how to advance one's skills as a software development professional. 
 
 This vault is not intended to be exhaustive and is intended to be expanded and contracted based on an individual's interests and career goals.
 

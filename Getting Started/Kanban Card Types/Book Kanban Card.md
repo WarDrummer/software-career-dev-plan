@@ -1,4 +1,3 @@
-# Book Kanban Card
 
 Clicking the link creates a folder and a note with the name of the book in the  `Books` folder
 

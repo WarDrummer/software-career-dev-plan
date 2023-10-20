@@ -1,5 +1,3 @@
-# {{title}}
-#career-plan
 
 | Skill Area      | Apprentice | Journeyman | Master |
 | --------------- | ---------- | ---------- | ------ |

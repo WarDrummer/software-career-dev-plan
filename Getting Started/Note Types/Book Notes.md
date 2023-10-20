@@ -1,5 +1,3 @@
-# Book Notes
-
 ## Overview
 - Create a single note per chapter
 - Create sections for each section or idea using headers `### Section Name`

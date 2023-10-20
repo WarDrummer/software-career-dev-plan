@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "adb5dd6d0d6b0aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8faed8ef8d6204d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86044481bf73bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Boards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b039db407f3a6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a290d0fecbe1121f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a210106427d5a87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22a5753eec6dc366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e774562601188f37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55c2e39cf78c7c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "54fc6628992f25f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f10936a7c316aee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning Boards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b28b25fd072c02ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b86044481bf73bbe",
+  "lastOpenFiles": [
+    "Getting Started.md",
+    "Testing/Testing Kanban.md",
+    "Getting Started/Skills and Proficiency Matrix.md",
+    "Security/Security Kanban.md",
+    "Getting Started/One Source of Truth.md",
+    "Getting Started/Mind Mapping with Local Graph.md",
+    "Getting Started/Matrices for Roles.md",
+    "Getting Started/Settings/Templates.md",
+    "Getting Started/Settings/Plugins.md",
+    "Getting Started/Settings/Hotkeys.md",
+    "Getting Started/Settings/Default Location for New Notes.md",
+    "Getting Started/Note Types/Topic Notes.md",
+    "Getting Started/Note Types/Exercise Notes.md",
+    "Getting Started/Note Types/Book Notes.md",
+    "Getting Started/Note Types/Article Notes.md",
+    "Getting Started/Kanban Card Types/Topic Kanban Card.md",
+    "Getting Started/Kanban Card Types/Kanban Card Types.md",
+    "Getting Started/Kanban Card Types/Exercise Kanban Card.md",
+    "Getting Started/Kanban Card Types/Book Kanban Card.md",
+    "Getting Started/Kanban Card Types/Article Kanban Card.md",
+    "General/General Kanban.md",
+    "Design Patterns/Design Patterns Kanban.md",
+    "Data Structures/Data Structures Kanban.md",
+    "CI CD/CI CD Kanban.md",
+    "Career Plans/Software Engineer - Master.md",
+    "Career Plans/Software Engineer - Journeyman.md",
+    "Books/Common-Sense Guide to Data Structures and Algorithms",
+    "_Files_/Templates-Hotkey.png",
+    "_Files_/LocalGraph-Example.png"
+  ]
+}

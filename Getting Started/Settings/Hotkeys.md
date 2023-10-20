@@ -1,4 +1,3 @@
-# Hotkeys
 Hotkeys can be a big time-saver if you take the time to set them up.
 
 ## Instructions

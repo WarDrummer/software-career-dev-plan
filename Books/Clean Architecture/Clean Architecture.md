@@ -1,5 +1,3 @@
-# Clean Architecture
-
 ### Table of Contents
 
 [[CABM01 - What is Design and Architecture]]

@@ -1,5 +1,3 @@
-# Art of Unit Testing
-
 ### Table of Contents
 
 [[AUT01 - The Basics of Unit Testing]]

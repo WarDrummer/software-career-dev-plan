@@ -1,5 +1,3 @@
-# Career Plans
-
 ## Software Engineer Career Plans
 [[Software Engineer - Apprentice]]
 [[Software Engineer - Journeyman]]

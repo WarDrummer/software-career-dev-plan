@@ -1,5 +1,3 @@
-# Mind Mapping with Local Graph
-
 ## Overview
 
 Mind maps are a tool for visualizing information hierarchically as well as how it relates to other information.

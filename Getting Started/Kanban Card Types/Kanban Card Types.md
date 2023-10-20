@@ -1,4 +1,3 @@
-# Kanban Card Types
 
 [[Article Kanban Card]]
 

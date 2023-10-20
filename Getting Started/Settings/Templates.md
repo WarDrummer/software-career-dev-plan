@@ -1,5 +1,3 @@
-# Templates
-
 Templates make it easier to add boiler plate to notes. 
 
 ## Instructions

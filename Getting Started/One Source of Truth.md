@@ -1,5 +1,3 @@
-# One Source of Truth
-
 ## Overview
 For any given topic (e.g. Test-Driven Development, Law of Demeter, etc.), have a single note to aggregate information
 

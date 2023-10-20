@@ -1,4 +1,3 @@
-# Article Kanban Card
 Clicking the link creates a folder and a note with the name of the book in the  `Articles` folder
 
 #### Template

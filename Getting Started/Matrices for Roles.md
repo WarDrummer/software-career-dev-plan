@@ -1,5 +1,3 @@
-# Matrices for Roles
-
 Some of the learning initiatives and suggestions in this program may be more appropriate for some roles than others. In order, to maximize the value of the program, versions of the skills matrix per role are provided as a suggestion on areas of focus for different roles.
 
 ![[Skills and Proficiency Matrix#Skills and Proficiency Matrix]]

@@ -1,4 +1,3 @@
-# Skills and Proficiency Matrix
 
 | Skill Area      | Apprentice | Journeyman | Master |
 | --------------- | ---------- | ---------- | ------ |
